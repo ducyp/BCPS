@@ -1,8 +1,6 @@
 **Mark Zuckerberg Dives Head First into Bitcoin - Big Coins Profit System - BCPS**
 
-Do you have what it takes to make some serious $$$ with bitcoin
-
-<iframe width="740" height="350" src="https://www.youtube.com/embed/eKHz_7y3_Ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Do you have what it takes to make some serious $$$ with bitcoin**
 
 Mark Zuckerberg ripped a page out of Jeff Bezos’ book on digital innovation and leadership.
 
@@ -38,10 +36,6 @@ BCPS employs the most reliable and best winning percentages available among any 
 BCPS is one of the first ever fully automated trading systems, you can import your own API from your prefered exchange or use our API, which automatically selects the best price out of our 20 different partner exchanges, that will best suit your chosen configuration.
 
 Take a look at the live Bitcoin chart below. Do you see the tremendous growth pattern? Over $7 billion market cap with a lot more to go. If you have been waiting or thinking about investing into Bitcoin then NOW is the time.
-
-<div class="algChart">
-<div class="btcwdgt-chart btcwdgt btcwdgt-headlines btcwdgt-light btcwdgt-clean" bw-theme="light">    <div class="btcwdgt-header">      <h2 title="Bitcoin price">        <span>$</span><span>9570.16</span>      </h2>      <h4>BTC/USD</h4>      <div class="stats">        <div>MktCap<span class="mkt-cap">$171B</span></div>        <div>High<span class="high">$12887.56</span></div>        <div>Low<span class="low">$3373.17</span></div>        <div>Supply<span class="supply">17.8M</span></div>        <div>Blocks<span class="blocks">587588</span></div>      </div>      <p class="changes up">        <strong class="arrow up"></strong><span class="pct">0.4%</span><span class="amt">$36.97</span>      </p>      <p class="date-wrap"><span class="date">Jul 29, 2019 7:19 PM</span></p>    </div>    <div class="btcwdgt-body" style="width: 622px !important;       height:349.875px !important">      <canvas class="c" style="width: 622px; height: 349.875px;" width="622" height="349"></canvas>      <canvas class="i" style="width: 622px; height: 349.875px;" width="622" height="349"></canvas>    </div>    <div class="btcwdgt-footer">      <a href="https://www.bitcoin.com/widgets/?utm_source=big-profit.website&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="embed" title="Embed this widget">&lt;/&gt;</a>      <a href="https://www.bitcoin.com/?utm_source=big-profit.website&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="logo" title="Powered by bitcoin.com"><span>bitcoin.com</span></a>    </div></div>
-</div>
 
 
 **How can you cash in on BCPS?**
